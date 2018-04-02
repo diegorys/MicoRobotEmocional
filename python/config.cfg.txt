@@ -1,0 +1,20 @@
+[arduino]
+port: /dev/ttyACM0
+
+[gmail]
+user: xxx
+password: xxx
+mailto: diegorys@gmail.com
+
+[personality]
+boredom_threshold: 20
+shame_threshold: 0
+anger_threshold: 2
+sick_threshold: 5
+darkness_threshold: 10
+luminosity_threshold: 600
+photographer_threshold: 2
+memory_threshold: 20
+
+[raspberry]
+port: 7
